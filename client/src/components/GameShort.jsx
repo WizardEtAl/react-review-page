@@ -17,7 +17,7 @@ const GameShort = ({ game }) => {
       <div>Arena: {game.location}</div>
       <div>Tip Off: {game.time}</div> 
     </div>
-  );
+    );
 };
 
 export default GameShort;
